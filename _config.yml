@@ -16,13 +16,14 @@
 title: "Doctors' Blog"
 email: hoffmeyer25@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-            "Doctor's blog, where he talks about anything he feels relavent,
-            such as books, to tech, to science,
-            really just anything he feels intresting"
+            "Doctor's blog is a site where I (Doctors) talk about anything
+            that I feel relavent to share, wanted to not. Stuff I might 
+            post include stuff such as books, to tech, to science, really 
+            just anything that I think is intresting."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://doc.tors.life/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TheDoctors_Life
-github_username:  sirdoctors
+github_username:  SirDoctors
 
 # Build settings
 markdown: kramdown
