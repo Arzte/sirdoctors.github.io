@@ -17,7 +17,7 @@ title: "Doctors' Blog"
 email: hoffmeyer25@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
             "Doctor's blog is a site where I (Doctors) talk about anything
-            that I feel relavent to share, wanted or not. Stuff I might 
+            that I feel relevant to share, wanted or not. Stuff I might 
             post include stuff such as books, to tech, to science, really 
             just anything that I think is intresting."
 baseurl: "" # the subpath of your site, e.g. /blog
