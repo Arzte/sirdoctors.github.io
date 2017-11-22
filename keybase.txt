@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/the_doctors_life
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://doc.tors.life
+  * I am the_doctors_life (https://keybase.io/the_doctors_life) on keybase.
+  * I have a public key with fingerprint B897 A346 674B 78C5 3CF4  E4D2 A265 7F1D B031 A38E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120259d4d68773a910a17eb81d57b38473fad16b81f229a7952fba89df09d70a0400a",
+      "fingerprint": "b897a346674b78c53cf4e4d2a2657f1db031a38e",
+      "host": "keybase.io",
+      "key_id": "a2657f1db031a38e",
+      "kid": "01018ab8d52c1ca2ee20bc2f3afd2f63888e8330ec6919044382a148b95efb45cff60a",
+      "uid": "67b13737c69658886e087226a4ed3a19",
+      "username": "the_doctors_life"
+    },
+    "service": {
+      "hostname": "doc.tors.life",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1511367947,
+  "expire_in": 157680000,
+  "prev": "620cf8ef2f403e2ff7d0102d7223879e6c36a3f9d70643b546679eeba86f6aa8",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMN2AnicbZJ7UFRVHMcXNBlgMgGZHFKU2xCCCPf92Mayh+EfpeFs6JCy3cc5yxXY
+u929C6yA1EqQGugQUGamCTiNMMqMWmT4WDHBdozQpfERPpgMVjEYAdeZcu1eRv/r
+/HPnnPP5fu/v+/uds8/OMEWF7QeVCzqw5rown/dblyk3vjW6DBEUyY2Yy5ACMP0B
+hRJwatYCWULMCIrhKE5xEinRLMMQPIehPMYAgcUkihEIlmQIyEsYrR9AHOd4hqNw
+KPAsJ0GUkxiUR0kU5ZF0BMp2G1AdqmzXdFuB5RieIGmaIQWGFSlChCQgJZzHaYqB
+mCSgBMYTLNCF+YrTUOjFCbwTZMiKfqZvrNPl/Q//tG4UY3mBlShcxEQeBwBHBRGH
+BA8lHNIEy7KAJQgUiDSHcShJEizOYyQrcBSAAkmJENLTdbum7WhGwAiGYHSapnQt
+DVCWwXGaJ4FE8BhngE6g2vkioNNaPrBKiqgpqtNaKEOAVKQj+m2xLAKjwUaiJ6RO
+ZRhYxjSWjjhURVNEpVC/ytc0h9NsSDW3w2BLgGB94mIVZLukN1RXFAPVKSt2xIzp
+pKjJhi1GYRhBMxzJpCOg1CGrwCobBMXQLKov4z+g2IiFoyJkAcQhiRIAh5CR9Mbh
+kh6NYBkO0CJB8wQ0BkmThEAZA+MA0OdLQ5rnWcTI9aFdQcw4p9fJ23RPp2yz85pL
+1VOf8a6faQqLMs16Jtx4aaaoyDlP319fyxxTe+PzRz1V/r9CJdXhO/2d/t1MIjPO
+WZav2Rjm6bkUf/uf85nli99yvVB/7mYg2jK1sj/7ja7B0H1XynBHx13v1Jh3D7lm
+Y43FJkTf7tsRubnw8fsxK1prx0+Vr31Ql32Us5RcT0tqerv7h4xL1qLJ7s4tEwt9
+9NaJvEPjq5Fcs/tEbEPQd+Bd1d2XaC90fNWtvnJLvfdxxWB3geb2vlfJrmpZMnRw
+aX3DleGKAU+EonCpZUuunkxq6s8b9bQ9OjKJfNC472usd9PZCNOubRsakn87DT30
+ovQLiRXZc/ubQkHvlwkXfX+U1cebH+4uDG5vbzm99J2UodzamppQVeyxjyong8G5
+6N6fXz5+04Jud8fGwOqIXR0xNUcWxGg3pjbPfJhXuyXlzRy/7aVHE513Z3SVwZGB
+qLFbX/geX97LXNswf2DkWk9pXOAy8Znv03PnR2ybEl6LXt0dKj9keXV+58m0anPC
+4ClP+N9p5mDB2uPfpM5Oia2dtTDr96v+75VP7sR9t2+s8WB70o6VUaPyGbJ03Z0L
+Xamimim1bfUvA0UguP85t9Dc9qvFwQ73HzhR/uLif9eHd2Ylf65dvyg9GH09bE8o
+ZyguK4Dk1B4+/KM43ttcVfdLU2ugadk9LDfyp9H73DFXZu+ftsZ5q3ZOITeW96y7
+Ur9oYFudvzgwj6MCQz3DmbOTk/4DcbzQyQ==
+=VxUu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/the_doctors_life
+
+==================================================================
+
