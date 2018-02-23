@@ -2,7 +2,7 @@
 layout: post
 title:  "Fixing wifi woes"
 date:   2017-11-02 11:10:02 -0400
-categories: self-caused NetworkManager dhcpcd runit
+categories: self-caused dhcpcd
 ---
 
 ## Forface
