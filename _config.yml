@@ -26,10 +26,12 @@ twitter_username: TheDoctors_Life
 github_username:  Coding-Doctors
 
 # Build settings
+permalink: /:short_year/:month/:day/:title:
 markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-include-cache
 exclude:
   - Gemfile
   - Gemfile.lock
