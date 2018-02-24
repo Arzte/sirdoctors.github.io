@@ -26,7 +26,7 @@ twitter_username: TheDoctors_Life
 github_username:  Coding-Doctors
 
 # Build settings
-permalink: /:short_year/:month/:day/:title:
+permalink: "/:short_year/:month/:day/:title"
 markdown: kramdown
 theme: minima
 gems:
